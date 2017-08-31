@@ -1,86 +1,74 @@
 <!DOCTYPE html>
 <?php include 'encabezado2.php' ?>
 <body>
-	<article class="contenedorpag">
-		<header>
-			<img src="../img/ambiensup.png" alt="AMBIENSUP ANALISTAS PROFESIONALES" class="img-fondo">
+	<header>
+    <figure class="logo pull-left">
+      <img src="../img/adyucsa.png" class="img-responsive" alt="Adyucsa">
+    </figure>
+    <p class="pull-right">Desarrollamos en forma completa e integral, <br> manteniendo estándares de calidad en los materiales utilizados.</p>
+  </header>
 
-			<div class="col-md-8 pull-right menu">
-				<ul class="nav nav-tabs">
-          <p class="icon-cerrar"><i class="fa fa-times" aria-hidden="true"></i></p>
-					<li role="presentation"><a href="../index.php">Inicio</a></li>
-					<li role="presentation" class="active"><a href="nosotros.php">Quienes Somos</a></li>
-					<li role="presentation"><a href="servicios.php">Servicios</a></li>
-					<li role="presentation"><a href="contacto.php">Contacto</a></li>
-				</ul>
-			</div>
-      <p class="icon-menu"><i class="fa fa-bars" aria-hidden="true"></i></p>
-		</header>
+    <nav class="">
+    <ul>
+      <a class="selector" href="../index.php">INICIO</a>
+      <a class="selector" id="select" href="nosotros.php">NOSOTROS</a>
+      <a class="selector" href="servicios.php">SERVICIOS</a>
+      <a class="selector" href="contacto.php">CONTACTO</a>
+    </ul>
+  </nav>
 
-    <a class="go-top" href="#">Subir</a>
-
-		<ul class="breadcrumb text-right submenu">
-		  <li><a href="../index.php">Inicio</a> <span class="divider"></span></li>
-		  <li class="active">Quienes Somos</li>
-		</ul>
-
-		<article class="contennosotros">
-			<h1 class="colorh2">Conocenos</h1>
-	        <div class="row">
-	          <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-	            <img class="imgmedio" src="../img/medioambiente.jpg"
-	            class="img-responsive">
-	          </div>
-	          <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-	            <p class="text-nosotros colorp">
-	              Somos una empresa dedicada a la producción de análisis científicos del subsuelo, otorgando servicios de geofísica, medio ambiente y arquitectura, brindando soluciones efectivas al mejor costo para nuestros clientes.
-	              <br><br>
-
-	              Promoveemos e impulsamos iniciativas en desarrollo sustentable a través de nuestros servicios, promoviendo el cuidado y conservación del medio ambiente. Somos una empresa conformada por profesionales y expertos en múltiples disciplinas entre las que se destacan Especialistas en Sistemas de Información, Geólogos, Ingenieros Geólogos, Geofísicos, Ingenieros de Petróleos, Ingenieros de Sistemas, Ingenieros Electrónicos, Físicos,  entre otros;
-	            </p>
-	          </div>
-	        </div>
-		</article>
-
-        <div class="row content-img">
-          <div class="col-xs-12 col-sm-12 col-md-3">
-            <img src="../img/mision.jpg"
-            class="img-responsive imgmvs">
-            <h2 class="colorh2">Misión</h2>
-            <p class="colorp">
-            	Ofrecer servicios de consultoría del sector ambiental, servicos de levantamiento geofísico y servicos de arquitectura con la mas alta calidad y apegados a estandares internacionales atendiendo las necesidades de nuestros clientes de forma rápida, profesional y con enfoque humanista.
-            </p>
+  <div class="section seccion1">
+      <div class="container">
+      <h1 style="border-bottom: 1px gray solid; padding-bottom: 1%;">Nosotros</h1> <br><br>
+        <div class="row">
+          <div class="col-md-6">
+            <img src="../img/constru.jpg"
+            class="img-responsive">
           </div>
-          <div class="col-xs-12 col-sm-12 col-md-3">
-            <img src="../img/vision.png"
-            class="img-responsive imgmvs">
-            <h2 class="colorh2">Visión</h2>
-            <p class="colorp">
-              Ser una empresa reconocida cuyo trabajo contribuye a la generación y fortalecimiento de una cultura ambiental en todos sus servicios y por lo consiguiente lider en el sector de la consultoría y servicios geofísicos.
-            </p>
-          </div>
-          <div class="col-xs-12 col-sm-12 col-md-3">
-            <img src="../img/objetivo.jpg"
-            class="img-responsive imgmvs">
-            <h2 class="colorh2">Objetivo</h2>
-            <p class="colorp">
-              Brindar los mejores servicios de análisis Geofísicos del mercado, apoyándonos completamente de todo nuestro equipo, conocimiento y experiencia, contando con la innovación, la actualización tecnológica, y la satisfacción de nuestros clientes. 
-            </p>
-          </div>
-          <div class="col-xs-12 col-sm-12 col-md-3">
-            <img src="../img/valores.jpg"
-            class="img-responsive imgmvs">
-            <h2 class="colorh2">Valores</h2>
-            <p class="colorp">
-              Nuestros valores son, la honestidad, lealtad, trabajo y responsabilidad, para entregarle los mas rentables resultados y fortalecer al máximo su proyecto.
-            </p>
+          <div class="col-md-6">
+            <h1>Adyucsa</h1>
+            <!-- <h3>A subtitle</h3> -->
+            <p>Adyucsa es una empresa que día a día brinda a sus socios, soluciones integrales en ingeniería y construcción para el desarrollo exitoso de sus edificaciones. Somos profesionales en la asesoría de proyectos para la construcción, basándonos en una excelente actitud de servicio y en nuestra técnica de primer nivel. <br> <br>
+            En Adyucsa contamos con el personal más capacitado en las diversas áreas que interactúan en las especialidades de Proyectos Arquitectónicos, Ingeniería, Construcción y Desarrollo Inmobiliario; ello nos permite dar un servicio integral y preciso en cada una de las fases del proceso constructivo, bajo una estricta supervisión y control, asegurando así la calidad de nuestros servicios.</p>
           </div>
         </div>
+      </div>
+    </div>
 
+<div class="section seccion2">
+      <div class="container">
+      <div class="col-md-12">
+          </div>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="iconos"><i class="fa fa-line-chart fa-5x" aria-hidden="true"></i></div>
+            <h2 class="text-center text-primary">MISION</h2>
+            <p class="text-center">Cumplir los requisitos de nuestros clientes mediante el diseño, planeación, control y ejecución de cualquier proyecto de construcción, alcanzando siempre óptimas especificaciones técnicas, urbanísticas y de calidad.</p>
+          </div>
+          <div class="col-md-4">
+            <div class="iconos"><i class="fa fa-eye fa-5x" aria-hidden="true"></i></div>
+            <h2 class="text-center text-primary">VISION</h2>
+            <p class="text-center">Ser una de las empresas con las mejores soluciones en construcción para todos los segmentos, aplicando siempre excelentes prácticas en sus procesos de estudio, ejecución y entrega de obra.</p>
+          </div>
+          <div class="col-md-4">
+           <div class="iconos"><i class="fa fa-handshake-o fa-5x" aria-hidden="true"></i></div>
+            <h2 class="text-center text-primary">VALORES</h2>
+            <p class="text-center">* Trabajo en equipo <br>
+        * Responsabilidad <br>
+        * Honestidad <br>
+        * Calidad.
+        </p>
+          </div>
+        </div>
+        <div class="botonc">
+            <a class="btn btn-danger btn-outline btn-lg" href="servicios.php">SERVICIOS</a>
+     </div>
+      </div>
+    </div>
+
+
+<a class="go-top" href="#">Subir</a>
 <?php include 'pie.php' ?>
-
-	</article>
-
 <script src="../js/jquery.js"></script>
 <script src="../js/menu.js"></script>
 <script src="../js/bootstrap.js"></script>

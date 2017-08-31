@@ -67,6 +67,7 @@ nav{
    background-color: #0B768C;
    text-align: center;
    overflow: hidden;
+   clear: both;
 }
 nav ul{
   /*border: 2px green solid;*/
@@ -142,9 +143,26 @@ a.go-top {
 
 
 /*--------------------------quienes somos--------------*/
-
-
+.seccion2{
+    background-color:  #fff ;
+    padding: 5% 0% 5% 0%;
+}
+.iconos{
+    text-align: center;
+}
+.iconos i{
+    color: #60A5B4;
+}
 /*--------------servicios---------------------------------*/
-
-
+.seccion3{
+    background-color:  #fff ;
+    padding: 4% 0% 5% 0%;
+}
+.tit{
+    margin-bottom: 5%;
+}
+.tit p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+}
 /*-------------contacto---------------------*/

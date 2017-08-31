@@ -3,7 +3,7 @@
 <body>
 	<header>
 		<figure class="logo pull-left">
-			<img src="img/adyucsa.png" class="img-responsive" alt="">
+			<img src="img/adyucsa.png" class="img-responsive" alt="Adyucsa">
 		</figure>
 		<p class="pull-right">Desarrollamos en forma completa e integral, <br> manteniendo estándares de calidad en los materiales utilizados.</p>
 	</header>
@@ -34,7 +34,7 @@
       <div class="col-md-12">
             <h1 class="text-center" style="color: #1D4C7C;">Algunos de nuestros servicios</h1> <br><br>
             <!-- <p class="text-center">Soluciones creativas, rentables y sostenibles para proyectos de diseño e ingeniería.</p> -->
-          </div
+          </div>
         <div class="row">
           <div class="col-md-4">
             <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
@@ -69,7 +69,6 @@
 	      		<a class="btn btn-danger btn-outline btn-lg" href="vistas/servicios.php">SERVICIOS</a>
 	   </div>
       </div>
-      
     </div>
 
 <a class="go-top" href="#">Subir</a>
