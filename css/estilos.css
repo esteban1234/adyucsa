@@ -166,3 +166,49 @@ a.go-top {
     font-size: 17px;
 }
 /*-------------contacto---------------------*/
+.title_sec {
+text-align : center;
+}
+
+.title_sec h2 {
+color : #606060;
+font-size : 12px;
+text-transform : uppercase;
+letter-spacing : 1px;
+}
+#ctn_sec {
+padding : 70px 0;
+background-color: #FFF;
+}
+
+#cnt_form .btn {
+background : #353638;
+padding : 10px 35px;
+}
+#cnt_form .form-control:focus {
+border : #0080FF solid 1px;
+}
+.cnt_info ul {
+margin : 0;
+padding : 0;
+border-left : 1px solid #C7C7C7;
+padding-left : 30px;
+}
+.cnt_info ul li {
+list-style : none outside none;
+padding : 15px 0;
+}
+.cnt_info ul li i {
+color : #818181;
+float : left;
+margin-top : 5px;
+}
+.cnt_info p {
+padding-left : 30px;
+}
+.mapa{
+    width: 100%;
+}
+.mapa iframe{
+    width: 100%;
+}
