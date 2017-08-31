@@ -69,10 +69,6 @@
 	      		<a class="btn btn-danger btn-outline btn-lg" href="vistas/servicios.php">SERVICIOS</a>
 	   </div>
       </div>
-<<<<<<< HEAD
-=======
-
->>>>>>> santy
     </div>
 
 <a class="go-top" href="#">Subir</a>

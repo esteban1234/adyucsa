@@ -26,7 +26,7 @@
           </div>
         <div class="row">
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="../img/0404.jpg"
             class="img-responsive">
             <h2 class="text-center text-primary">Edificación y obra civil en general</h2>
             <p class="">* Cimentaciones. <br>
@@ -35,29 +35,29 @@
 			* Personal por administración y Supervisión de Obra.</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="../img/0505.jpg"
             class="img-responsive">
             <h2 class="text-center text-primary">Dirección de proyectos de construcción</h2>
-            <p class="">* Estudio y búsqueda de suelos para inversionistas. 
-				<br>* Desarrollo de tramites administrativos. 
-				<br>* Planificación del proyecto. 
-				<br>* Gestión de costos, calidad y plazos. 
-				<br>* Licitación de obra. 
-				<br>* Contratación del equipo del proyecto. 
-				<br>* Coordinación del proyecto. 
-				<br>* Gestión de cambios. 
-				<br>* Cierre del proyecto. 
+            <p class="">* Estudio y búsqueda de suelos para inversionistas.
+				<br>* Desarrollo de tramites administrativos.
+				<br>* Planificación del proyecto.
+				<br>* Gestión de costos, calidad y plazos.
+				<br>* Licitación de obra.
+				<br>* Contratación del equipo del proyecto.
+				<br>* Coordinación del proyecto.
+				<br>* Gestión de cambios.
+				<br>* Cierre del proyecto.
 				<br>* Coordinación del proceso de postventa.</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="../img/0606.jpg"
             class="img-responsive">
             <h2 class="text-center text-primary">Supervición de proyectos</h2>
-            <p class="">* Planeación de Obra. 
-				<br>* Control de Cambios e Ingenierías de Valor. 
-				<br>* Optimización del tiempo de entrega. 
-				<br>* Control total de la obra. 
-				<br>* Servicio de Entrega. 
+            <p class="">* Planeación de Obra.
+				<br>* Control de Cambios e Ingenierías de Valor.
+				<br>* Optimización del tiempo de entrega.
+				<br>* Control total de la obra.
+				<br>* Servicio de Entrega.
 				<br>* Control postventa.</p>
           </div>
         </div> <br><br>
@@ -65,7 +65,7 @@
 
         <div class="row">
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="../img/0101.jpg"
             class="img-responsive">
             <h2 class="text-center text-primary">Edificación</h2>
             <p class="">* Anteproyecto. <br>
@@ -75,14 +75,14 @@
 				* Coordinación de Proyectos y Supervisión de Obra.</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="../img/0202.jpg"
             class="img-responsive">
             <h2 class="text-center text-primary">Instalaciones</h2>
             <p class="">* Electricidad media y baja tensión. <br>
 				* Redes hidráulica y Sanitaria.</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="../img/0303.jpg"
             class="img-responsive">
             <h2 class="text-center text-primary">Acabados</h2>
             <p class="">* Tabla roca en muros y plafones. <br>
@@ -98,7 +98,7 @@
 	   </div>
       </div>
     </div>
-	
+
 <a class="go-top" href="#">Subir</a>
 <?php include 'pie.php' ?>
 <script src="../js/jquery.js"></script>
