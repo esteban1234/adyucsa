@@ -15,7 +15,7 @@
 	      		<a class="btn btn-danger btn-outline btn-lg" href="vistas/contacto.php">CONTACTANOS</a>
 	    	</div>
 		</div>
-	
+
 	</div>
 
 	  <nav class="">
@@ -37,7 +37,7 @@
           </div>
         <div class="row">
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="img/0101.jpg"
             class="img-responsive">
             <h2 class="text-center text-primary">Edificación</h2>
             <p class="text-center">* Anteproyecto. <br>
@@ -47,14 +47,14 @@
 				* Coordinación de Proyectos y Supervisión de Obra.</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="img/0202.jpg"
             class="img-responsive">
             <h2 class="text-center text-primary">Instalaciones</h2>
             <p class="text-center">* Electricidad media y baja tensión. <br>
 				* Redes hidráulica y Sanitaria.</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="img/0303.jpg"
             class="img-responsive">
             <h2 class="text-center text-primary">Acabados</h2>
             <p class="text-center">* Tabla roca en muros y plafones. <br>
@@ -69,6 +69,10 @@
 	      		<a class="btn btn-danger btn-outline btn-lg" href="vistas/servicios.php">SERVICIOS</a>
 	   </div>
       </div>
+<<<<<<< HEAD
+=======
+
+>>>>>>> santy
     </div>
 
 <a class="go-top" href="#">Subir</a>
