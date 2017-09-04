@@ -6,6 +6,10 @@
       <img src="../img/adyucsa.png" class="img-responsive" alt="Adyucsa">
     </figure>
     <p class="pull-right">Desarrollamos en forma completa e integral, <br> manteniendo estándares de calidad en los materiales utilizados.</p>
+
+    <div class="op-menu">
+      <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+    </div>
   </header>
 
     <nav class="">
@@ -19,16 +23,16 @@
 
   <div class="section seccion1">
       <div class="container">
-      <h1 style="border-bottom: 1px gray solid; padding-bottom: 1%;">Nosotros</h1> <br><br>
+      <h1 class="h1-nosotros" style="border-bottom: 1px gray solid; padding-bottom: 1%;">Nosotros</h1> <br><br>
         <div class="row">
           <div class="col-md-6">
             <img src="../img/constru.jpg"
             class="img-responsive">
           </div>
           <div class="col-md-6">
-            <h1>Adyucsa</h1>
+            <h1 class="h1-tit-nos">Adyucsa</h1>
             <!-- <h3>A subtitle</h3> -->
-            <p>Adyucsa es una empresa que día a día brinda a sus socios, soluciones integrales en ingeniería y construcción para el desarrollo exitoso de sus edificaciones. Somos profesionales en la asesoría de proyectos para la construcción, basándonos en una excelente actitud de servicio y en nuestra técnica de primer nivel. <br> <br>
+            <p class="p-nos">Adyucsa es una empresa que día a día brinda a sus socios, soluciones integrales en ingeniería y construcción para el desarrollo exitoso de sus edificaciones. Somos profesionales en la asesoría de proyectos para la construcción, basándonos en una excelente actitud de servicio y en nuestra técnica de primer nivel. <br> <br>
             En Adyucsa contamos con el personal más capacitado en las diversas áreas que interactúan en las especialidades de Proyectos Arquitectónicos, Ingeniería, Construcción y Desarrollo Inmobiliario; ello nos permite dar un servicio integral y preciso en cada una de las fases del proceso constructivo, bajo una estricta supervisión y control, asegurando así la calidad de nuestros servicios.</p>
           </div>
         </div>
@@ -40,19 +44,19 @@
       <div class="col-md-12">
           </div>
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 centrar-elemento">
             <div class="iconos"><i class="fa fa-line-chart fa-5x" aria-hidden="true"></i></div>
-            <h2 class="text-center text-primary">MISION</h2>
-            <p class="text-center">Cumplir los requisitos de nuestros clientes mediante el diseño, planeación, control y ejecución de cualquier proyecto de construcción, alcanzando siempre óptimas especificaciones técnicas, urbanísticas y de calidad.</p>
+            <h2 class="text-center text-primary mvv">MISION</h2>
+            <p class="text-center text-news">Cumplir los requisitos de nuestros clientes mediante el diseño, planeación, control y ejecución de cualquier proyecto de construcción, alcanzando siempre óptimas especificaciones técnicas, urbanísticas y de calidad.</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 centrar-elemento">
             <div class="iconos"><i class="fa fa-eye fa-5x" aria-hidden="true"></i></div>
-            <h2 class="text-center text-primary">VISION</h2>
-            <p class="text-center">Ser una de las empresas con las mejores soluciones en construcción para todos los segmentos, aplicando siempre excelentes prácticas en sus procesos de estudio, ejecución y entrega de obra.</p>
+            <h2 class="text-center text-primary mvv">VISION</h2>
+            <p class="text-center text-news">Ser una de las empresas con las mejores soluciones en construcción para todos los segmentos, aplicando siempre excelentes prácticas en sus procesos de estudio, ejecución y entrega de obra.</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 centrar-elemento">
            <div class="iconos"><i class="fa fa-handshake-o fa-5x" aria-hidden="true"></i></div>
-            <h2 class="text-center text-primary">VALORES</h2>
+            <h2 class="text-center text-primary mvv">VALORES</h2>
             <p class="text-center">* Trabajo en equipo <br>
         * Responsabilidad <br>
         * Honestidad <br>

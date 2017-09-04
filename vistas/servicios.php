@@ -7,6 +7,10 @@
       <img src="../img/adyucsa.png" class="img-responsive" alt="Adyucsa">
     </figure>
     <p class="pull-right">Desarrollamos en forma completa e integral, <br> manteniendo estándares de calidad en los materiales utilizados.</p>
+
+    <div class="op-menu">
+      <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+    </div>
   </header>
 
     <nav class="">
@@ -21,24 +25,22 @@
   <div class="section seccion3">
       <div class="container">
       <div class="col-md-12 tit">
-            <h1 style="border-bottom: 1px gray solid; padding-bottom: 1%;">Servicios</h1> <br>
+            <h1 class="h1-servicios" style="border-bottom: 1px gray solid; padding-bottom: 1%;">Servicios</h1> <br>
             <p class="text-center">Soluciones creativas, rentables y sostenibles para proyectos de diseño e ingeniería.</p>
           </div>
         <div class="row">
-          <div class="col-md-4">
-            <img src="../img/0404.jpg"
-            class="img-responsive">
-            <h2 class="text-center text-primary">Edificación y obra civil en general</h2>
-            <p class="">* Cimentaciones. <br>
-			* Estructuras de Concreto y Estructuras Metálicas. <br>
-			* Albañilería. <br>
-			* Personal por administración y Supervisión de Obra.</p>
+          <div class="col-md-4 add-borbottom">
+            <img src="../img/0404.jpg" class="img-responsive">
+            <h2 class="text-center text-primary text-sub-ser">Edificación y obra civil en general</h2>
+            <p class="new-tam">* Cimentaciones. <br>
+        			* Estructuras de Concreto y Estructuras Metálicas. <br>
+        			* Albañilería. <br>
+        			* Personal por administración y Supervisión de Obra.</p>
           </div>
-          <div class="col-md-4">
-            <img src="../img/0505.jpg"
-            class="img-responsive">
-            <h2 class="text-center text-primary">Dirección de proyectos de construcción</h2>
-            <p class="">* Estudio y búsqueda de suelos para inversionistas.
+          <div class="col-md-4 add-borbottom">
+            <img src="../img/0505.jpg" class="img-responsive">
+            <h2 class="text-center text-primary text-sub-ser">Dirección de proyectos de construcción</h2>
+            <p class="new-tam">* Estudio y búsqueda de suelos para inversionistas.
 				<br>* Desarrollo de tramites administrativos.
 				<br>* Planificación del proyecto.
 				<br>* Gestión de costos, calidad y plazos.
@@ -49,11 +51,10 @@
 				<br>* Cierre del proyecto.
 				<br>* Coordinación del proceso de postventa.</p>
           </div>
-          <div class="col-md-4">
-            <img src="../img/0606.jpg"
-            class="img-responsive">
-            <h2 class="text-center text-primary">Supervición de proyectos</h2>
-            <p class="">* Planeación de Obra.
+          <div class="col-md-4 add-borbottom">
+            <img src="../img/0606.jpg" class="img-responsive">
+            <h2 class="text-center text-primary text-sub-ser">Supervición de proyectos</h2>
+            <p class="new-tam">* Planeación de Obra.
 				<br>* Control de Cambios e Ingenierías de Valor.
 				<br>* Optimización del tiempo de entrega.
 				<br>* Control total de la obra.
@@ -64,33 +65,31 @@
 
 
         <div class="row">
-          <div class="col-md-4">
-            <img src="../img/0101.jpg"
-            class="img-responsive">
-            <h2 class="text-center text-primary">Edificación</h2>
-            <p class="">* Anteproyecto. <br>
-				* Proyecto Básico. <br>
-				* Proyecto Ejecutivo.  <br>
-				* Dirección de Proyectos. <br>
-				* Coordinación de Proyectos y Supervisión de Obra.</p>
+          <div class="col-md-4 add-borbottom">
+            <img src="../img/0101.jpg" class="img-responsive">
+            <h2 class="text-center text-primary text-sub-ser">Edificación</h2>
+            <p class="new-tam">* Anteproyecto. <br>
+      				* Proyecto Básico. <br>
+      				* Proyecto Ejecutivo.  <br>
+      				* Dirección de Proyectos. <br>
+      				* Coordinación de Proyectos y Supervisión de Obra.</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-4 add-borbottom">
             <img src="../img/0202.jpg"
             class="img-responsive">
-            <h2 class="text-center text-primary">Instalaciones</h2>
-            <p class="">* Electricidad media y baja tensión. <br>
-				* Redes hidráulica y Sanitaria.</p>
+            <h2 class="text-center text-primary text-sub-ser">Instalaciones</h2>
+            <p class="new-tam">* Electricidad media y baja tensión. <br>
+				      * Redes hidráulica y Sanitaria.</p>
           </div>
-          <div class="col-md-4">
-            <img src="../img/0303.jpg"
-            class="img-responsive">
-            <h2 class="text-center text-primary">Acabados</h2>
-            <p class="">* Tabla roca en muros y plafones. <br>
-				* Instalación de piso cerámico, mármol, duela natural, marmol y granito. <br>
-				* Zarpeo y Afine. <br>
-				* Yeso. <br>
-				* Pintura. <br>
-				* Carpintería (zoclos, puertas, muebles, cocinas)</p>
+          <div class="col-md-4 add-borbottom">
+            <img src="../img/0303.jpg" class="img-responsive">
+            <h2 class="text-center text-primary text-sub-ser">Acabados</h2>
+            <p class="new-tam">* Tabla roca en muros y plafones. <br>
+      				* Instalación de piso cerámico, mármol, duela natural, marmol y granito. <br>
+      				* Zarpeo y Afine. <br>
+      				* Yeso. <br>
+      				* Pintura. <br>
+      				* Carpintería (zoclos, puertas, muebles, cocinas)</p>
           </div>
         </div>
         <div class="botonc">

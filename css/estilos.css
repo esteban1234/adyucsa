@@ -13,6 +13,12 @@ header{
     width: 20%;
     margin-left: 5%;
 }
+
+.op-menu{
+  display: none;
+}
+
+
 header p{
     font-family: 'Encode Sans', sans-serif;
     font-size: 22px;

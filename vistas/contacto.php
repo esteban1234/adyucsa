@@ -7,6 +7,10 @@
       <img src="../img/adyucsa.png" class="img-responsive" alt="Adyucsa">
     </figure>
     <p class="pull-right">Desarrollamos en forma completa e integral, <br> manteniendo estándares de calidad en los materiales utilizados.</p>
+
+    <div class="op-menu">
+      <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+    </div>
   </header>
 
     <nav class="">
@@ -31,21 +35,22 @@
       </div>     
       <div class="col-sm-6"> 
         <div id="cnt_form">
-          <form id="contact-form" class="contact" name="contact-form" method="POST" action="calculo.php">
+          <form id="contact-form" class="contact" name="contact-form" onSubmit="return false">
             <div class="form-group">
-            <input type="text" name="Nombre" class="form-control name-field" required="required" placeholder="Nombre">
+            <input type="text" id="txtNOMBRE" name="Nombre" class="form-control name-field" required="required" placeholder="Nombre">
             </div>
             <div class="form-group">
-              <input type="email" name="Email" class="form-control mail-field" required="required" placeholder="Correo">
+              <input type="email" id="txtCORREO" name="Email" class="form-control mail-field" required="required" placeholder="Correo">
             </div>
             <div class="form-group">
-              <input type="tel" name="Telefono" class="form-control mail-field" required="required" placeholder="Telefono">
+              <input type="tel" id="txtTELEFONO" name="Telefono" class="form-control mail-field" required="required" placeholder="Telefono">
             </div>
             <div class="form-group">
-              <textarea name="mensaje" id="message" required="required" class="form-control" rows="8" placeholder="Mensaje"></textarea>
+              <textarea name="mensaje" id="txtCOMENTARIO" required="required" class="form-control" rows="8" placeholder="Mensaje"></textarea>
             </div> 
             <div class="form-group">
-              <button type="submit" class="btn btn-primary">Enviar</button>
+              <div id="_AJAX_PRE_" ></div>
+              <button type="submit" class="btn btn-primary" onclick="sendCORREO()">Enviar</button>
             </div>
           </form> 
         </div>
@@ -71,9 +76,11 @@
 <a class="go-top" href="#">Subir</a>
 <?php include 'pie.php' ?>
 <script src="../js/jquery.js"></script>
+<script src="../js/sendCORREO.js"></script>
 <script src="../js/menu.js"></script>
 <script src="../js/bootstrap.js"></script>
 <script src="../js/arriba.js"></script>
+
 
 </body>
 </html>
